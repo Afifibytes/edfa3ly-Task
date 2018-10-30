@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <element>
+        <id>1</id>
+        <product>Shoes</product>
+    </element>
+    <element>
+        <id>2</id>
+        <product>T-shirt</product>
+    </element>
+    <element>
+        <id>3</id>
+        <product>Skirt</product>
+    </element>
+</root>
